@@ -27,6 +27,7 @@
     "electron": "^23.0.0"
   },
   "dependencies": {
+    "dpkg": "^1.0.0",
     "electron-squirrel-startup": "^1.0.0"
   }
 }
